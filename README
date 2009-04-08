@@ -22,7 +22,7 @@ Sync
 ====
 
 Simply run:
-  rake jquery-kit:sync
+  rake jquery_kit:sync
 
   to add these libraries to your /public/javascripts directory
 
